@@ -1,16 +1,31 @@
-# React + Vite
+💰 Sistema Financeiro Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um sistema web responsivo para controle financeiro pessoal, permitindo o registro e acompanhamento de receitas, despesas, saldo atual e indicadores financeiros em tempo real.
 
-Currently, two official plugins are available:
+🎯 Objetivo do Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Este projeto foi desenvolvido para praticar conceitos de desenvolvimento front-end com React e criar uma aplicação útil para organização financeira pessoal.
 
-## React Compiler
+✨ Funcionalidades
+✅ Cadastro de receitas e despesas
+✅ Classificação por categoria
+✅ Controle de saldo em tempo real
+✅ Dashboard com indicadores financeiros
+✅ Persistência de dados no navegador (Local Storage)
+✅ Interface moderna e responsiva
+✅ Otimizado para dispositivos móveis
+✅ Filtros e organização de lançamentos
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tecnologias Utilizadas
+⚛️ React
+⚡ Vite
+🎨 CSS3 / Design Responsivo
+💾 Local Storage
+🟨 JavaScript (ES6+)
+🌐 HTML5
 
-## Expanding the ESLint configuration
+👨‍💻 Autor
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Gabriel Valentin
+
+LinkedIn: https://www.linkedin.com/in/seu-linkedin
