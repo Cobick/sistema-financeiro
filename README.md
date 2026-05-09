@@ -24,7 +24,7 @@ Este projeto foi desenvolvido para praticar conceitos de desenvolvimento front-e
 🟨 JavaScript (ES6+)
 🌐 HTML5
 
-![Preview do Sistema](./print_project.jpeg)
+![Preview do Sistema](./print_project.jpg)
 
 👨‍💻 Autor
 
