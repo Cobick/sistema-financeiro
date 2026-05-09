@@ -30,4 +30,4 @@ Este projeto foi desenvolvido para praticar conceitos de desenvolvimento front-e
 
 Gabriel Valentin
 
-LinkedIn: https://www.linkedin.com/in/seu-linkedin
+LinkedIn: www.linkedin.com/in/gabriel-valentin-da-silva
